@@ -90,6 +90,8 @@ footer {
   text-align: center;
   margin-top: 40px;
   width: 100%;
+  <div class="copyright">©</div>
+  position: fixed ;
 }
 
 .footer-content {
