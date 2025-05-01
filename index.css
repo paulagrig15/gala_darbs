@@ -97,6 +97,18 @@ footer {
   margin: 0 auto;
 }
 
+.content-section {
+  max-width: 800px;
+  margin: 40px auto;
+  text-align: center;
+}
+
+.content-section ul {
+  text-align: left;
+  max-width: 600px;
+  margin: 20px auto;
+}
+
 p {
   text-align: center;
   color: #1E495B;
