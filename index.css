@@ -1,0 +1,51 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body { font-family: 'Crimson Text', serif;
+     background-color: #0f6a85;
+      }
+
+.pazinojums {
+  font-family: 'Crimson Text', serif;
+  color: #333;
+  margin-top: 30px;
+}
+
+header {
+  background-color: #AED0E7;
+  padding: 30px;
+  text-align: center;
+}
+
+nav a {
+text-decoration: none;
+  color: white;
+background-color:#AED0E7;
+  }
+
+main {
+  padding: 20px;
+  max-width: 600px;
+  margin: auto;
+}
+
+footer {
+background-color: #AED0E7;
+  text-align: center;
+  padding: 15px;
+  margin-top: 30px;
+  font-weight: bold;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
+
+
+h2 {
+  padding: 10px;
+  max-width: 200px;
+  margin: auto;
+  
+}
