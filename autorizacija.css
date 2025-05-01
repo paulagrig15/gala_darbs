@@ -14,7 +14,7 @@ header {
 
 nav a {
   text-decoration: none;
-  color: white;
+  color: #ffffff;
   background-color: #66A0C8;
   padding: 10px 15px;
   margin: 5px;
@@ -35,7 +35,7 @@ h1 {
 }
 
 .auth-form {
-  background-color: white;
+  background-color: #ffffff;
   padding: 30px;
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
@@ -50,6 +50,7 @@ label {
   color: #1E495B;
   font-size: 1.1em;
   margin-bottom: 8px;
+  text-align: center;
 }
 
 input {
@@ -66,7 +67,7 @@ button {
   margin: 30px auto 0;
   padding: 10px;
   background-color: #66A0C8;
-  color: white;
+  color: #ffffff;
   border: none;
   border-radius: 5px;
   cursor: pointer;
@@ -84,3 +85,7 @@ footer {
 .kontakti {
   font-weight: bold;
 }
+
+
+
+
