@@ -35,13 +35,16 @@ main {
 
 .logo-text {
   display: flex;
-  flex-direction: column;
+  gap: 40px;
   align-items: flex-start;
-  text-align: left;
   margin-bottom: 30px;
 }
 
-.logo-text img {
+.logo-container {
+  flex-shrink: 0;
+}
+
+.logo-container img {
   width: 150px;
   height: auto;
   margin-bottom: 10px;
@@ -50,7 +53,16 @@ main {
 .slogan {
   color: #2C3E50;
   font-style: italic;
-  margin: 10px 0 30px;
+  margin: 10px 0;
+}
+
+.about-section {
+  flex-grow: 1;
+}
+
+.about-section h2 {
+  text-align: left;
+  margin-top: 0;
 }
 
 h2 {
