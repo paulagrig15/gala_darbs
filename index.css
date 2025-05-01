@@ -14,14 +14,18 @@ body { font-family: 'Crimson Text', serif;
 
 header {
   background-color: #AED0E7;
-  padding: 30px;
+  padding: 15px;
   text-align: center;
 }
 
 nav a {
-text-decoration: none;
+  text-decoration: none;
   color: white;
-background-color:#AED0E7;
+  background-color: #66A0C8;
+  padding: 10px 15px;
+  margin: 10px;
+  border-radius: 5px;
+  display: inline-block;
   }
 
 main {
