@@ -89,6 +89,14 @@ footer {
   font-weight: bold;
 }
 
+.copyright {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  font-size: 14px;
+  opacity: 1;
+}
+
 
 
 

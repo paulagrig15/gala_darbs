@@ -63,12 +63,18 @@ footer {
   text-align: center;
   padding: 10px;
   margin-top: 10px;
-   <div class="copyright">©</div>
-  position: fixed  ;
+   
 }
 
 h2{
   text-align: center;
   color: #1E495B;
-  
+}
+
+.copyright {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  font-size: 14px;
+  opacity: 1;
 }
