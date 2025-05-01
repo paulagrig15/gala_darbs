@@ -33,31 +33,18 @@ main {
   padding: 40px 20px;
 }
 
-.content-wrapper {
-  text-align: center;
-}
-
-.logo-section {
+.logo-text {
   display: flex;
+  flex-direction: column;
   align-items: center;
-  justify-content: center;
-  gap: 20px;
+  text-align: center;
   margin-bottom: 30px;
 }
 
-.logo-section img {
+.logo-text img {
   width: 150px;
   height: auto;
-}
-
-.logo-section h1 {
-  margin: 0;
-  color: #2C3E50;
-  font-size: 2em;
-}
-
-.main-description {
-  margin: 20px 0;
+  margin-bottom: 20px;
 }
 
 .slogan {
