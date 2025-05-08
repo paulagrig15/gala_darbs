@@ -21,10 +21,11 @@ nav {
 
 nav a {
   text-decoration: none;
-  color: #2C3E50;
-  background-color: #CBE1F0;
+  color: #ffffff;
+  background-color: #66A0C8;
   padding: 8px 15px;
   border-radius: 5px;
+   margin: 15px;
 }
 
 main {
